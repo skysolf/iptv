@@ -4,6 +4,8 @@
 
 请勿流传或贩卖。
 
+##IPTV播放软件推荐
+
 这里提供了tivimate 多个版本。其中2.15版本最完美
 
 iptv pro也是破解版
@@ -18,8 +20,8 @@ https://kodi.tv/download/android
 
 
 
-**以下是android tv 桌面推荐，简洁为主**
-**首推 TVLauncher**
+##Android TV 桌面软件推荐
+###首推 TVLauncher
 
     https://github.com/skysolf/iptv/blob/main/TVLauncher%20v3.1.1.apk
     
@@ -41,7 +43,7 @@ https://kodi.tv/download/android
     
     
 
-  **其次是ATV_Launcher**
+  ###其次是ATV_Launcher
 
   https://github.com/skysolf/iptv/blob/main/ATV_Launcher_0.1.5-pro_%E6%B1%89%E5%8C%96%E7%89%88-%E3%80%90KUMI%E5%88%86%E4%BA%AB%E3%80%91.apk
   
