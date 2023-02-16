@@ -51,21 +51,19 @@ https://github.com/skysolf/iptv/blob/main/TVBox_20221128-%E4%BF%AE%E6%94%B9%E8%8
 <br>
 <br>
 
+### 小苹果TVBOX（内置源）
+https://github.com/skysolf/iptv/blob/main/xiaopgys.apk
+<br>
+
 ### 影视仓TVBOX
 https://liucn.lanzouf.com/i8bE20k6skgb
 <br>
 ### 数据源接口
 
 推荐无广告视频源：快看影视、酷云七七、小苹果、乐猪影视
-<br>
-#### 小苹果数据源：
-```
-http://t.grelighting.cn/a001.asp
-```
-
 
 <br>
-#### 其他数据源地址，首推第一个
+#### 数据源地址，首推第一个
 
 ```
 http://byyds.top/w.txt（推荐）
