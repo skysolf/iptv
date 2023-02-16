@@ -62,12 +62,8 @@ https://liucn.lanzouf.com/i8bE20k6skgb
 ```
 http://t.grelighting.cn/a001.asp
 ```
-<br>
 
-#### 多仓库数据源：
-```
-https://raw.liucn.cc/box/dm.txt
-```
+
 <br>
 #### 其他数据源地址，首推第一个
 
