@@ -1,14 +1,16 @@
 # iptv
 # 软件仅供个人测试使用，请勿流传或贩卖。
 ---
-
+<br>
+<br>
 
 ## IPTV播放软件推荐
 ### Tivimate
 这里提供了tivimate 多个版本。其中2.15版本最完美
 
 [TiviMate-2.7.5\_付费破解版.apk](https://github.com/skysolf/iptv/blob/main/TiviMate%20%202.1.5%20-%20Premium%E4%BB%98%E8%B4%B9%E7%A0%B4%E8%A7%A3%E7%89%88.apk)
-
+<br>
+<br>
 
 
 ### IPTV Pro
@@ -16,7 +18,8 @@ iptv pro也是破解版
 
 [IPTV-Pro-6.2.3-v7a-Mod-Balatan.apk](https://github.com/skysolf/iptv/blob/main/IPTV-Pro-6.2.3-v7a-Mod-Balatan.apk)
 
-
+<br>
+<br>
 
 ### KODI
 kodi是免费软件，大家可以去官方网站下载
@@ -24,12 +27,24 @@ kodi是免费软件，大家可以去官方网站下载
 https://kodi.tv/download/android
 
 
+<br>
+<br>
+<br>
+<br>
 
+## 电视点播软件TVBOX推荐
+### 基于原版
+<br>
+<br>
 
+### o0HalfLife0o/TVBoxOSC
 
+最新版本下载 https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Android TV 桌面软件推荐
 ### 首推 TVLauncher
@@ -58,15 +73,10 @@ https://github.com/skysolf/iptv/blob/main/TVLauncher%20v3.1.1.apk
 
   ![image](https://user-images.githubusercontent.com/936803/218387962-1621190a-0266-4910-9aa4-bd178a1a7415.png)
 
-
-
- 
-
-    
-
-    
-
-
+<br>
+<br>
+<br>
+<br>
 
 ###   其次是ATV\_Launcher
 ```python
